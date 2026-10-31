@@ -1,0 +1,25 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+pom.xml.releaseBackup
+release.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / env
+*.log
+.env
+.env.*
+
+# Claude Code local files
+.claude/

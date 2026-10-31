@@ -1,0 +1,6 @@
+.git
+.gitignore
+**/target
+Jenkinsfile
+README.md
+.DS_Store

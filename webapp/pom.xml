@@ -29,9 +29,14 @@
   <dependencies>
 
     <dependency>
-      <groupId>javax.servlet</groupId>
-      <artifactId>servlet-api</artifactId>
+      <groupId>jakarta.servlet</groupId>
+      <artifactId>jakarta.servlet-api</artifactId>
       <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.example.maven-project</groupId>
+      <artifactId>server</artifactId>
+      <version>${project.version}</version>
     </dependency>
 
     <dependency>
